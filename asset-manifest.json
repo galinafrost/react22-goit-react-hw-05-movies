@@ -1,13 +1,23 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.07d3183d.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-homework-template/static/js/main.07d3183d.js.map"
+    "main.css": "/react22-goit-react-hw-05-movies/static/css/main.d63d355c.css",
+    "main.js": "/react22-goit-react-hw-05-movies/static/js/main.0d10ce6e.js",
+    "static/js/635.82f3323a.chunk.js": "/react22-goit-react-hw-05-movies/static/js/635.82f3323a.chunk.js",
+    "static/js/859.8b1fdbad.chunk.js": "/react22-goit-react-hw-05-movies/static/js/859.8b1fdbad.chunk.js",
+    "static/js/93.9671de0c.chunk.js": "/react22-goit-react-hw-05-movies/static/js/93.9671de0c.chunk.js",
+    "static/js/353.3171df6a.chunk.js": "/react22-goit-react-hw-05-movies/static/js/353.3171df6a.chunk.js",
+    "static/js/704.4ad408de.chunk.js": "/react22-goit-react-hw-05-movies/static/js/704.4ad408de.chunk.js",
+    "index.html": "/react22-goit-react-hw-05-movies/index.html",
+    "main.d63d355c.css.map": "/react22-goit-react-hw-05-movies/static/css/main.d63d355c.css.map",
+    "main.0d10ce6e.js.map": "/react22-goit-react-hw-05-movies/static/js/main.0d10ce6e.js.map",
+    "635.82f3323a.chunk.js.map": "/react22-goit-react-hw-05-movies/static/js/635.82f3323a.chunk.js.map",
+    "859.8b1fdbad.chunk.js.map": "/react22-goit-react-hw-05-movies/static/js/859.8b1fdbad.chunk.js.map",
+    "93.9671de0c.chunk.js.map": "/react22-goit-react-hw-05-movies/static/js/93.9671de0c.chunk.js.map",
+    "353.3171df6a.chunk.js.map": "/react22-goit-react-hw-05-movies/static/js/353.3171df6a.chunk.js.map",
+    "704.4ad408de.chunk.js.map": "/react22-goit-react-hw-05-movies/static/js/704.4ad408de.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.d63d355c.css",
+    "static/js/main.0d10ce6e.js"
   ]
 }
