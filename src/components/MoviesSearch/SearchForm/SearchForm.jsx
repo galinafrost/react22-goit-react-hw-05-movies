@@ -6,10 +6,14 @@ const SearchForm = ({ onSubmit }) => {
 
   const handlChange = event => {
     const { value } = event.target;
+
     setSearch(value);
   };
 
   const handlSubmit = event => {
+    if (!search) {
+      return;
+    }
     event.preventDefault();
     onSubmit(search);
     setSearch('');
