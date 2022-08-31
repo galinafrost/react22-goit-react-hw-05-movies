@@ -11,7 +11,8 @@ const SearchForm = ({ onSubmit }) => {
   };
 
   const handlSubmit = event => {
-    if (!search) {
+    event.preventDefault();
+    if (search === '') {
       return;
     }
     event.preventDefault();
